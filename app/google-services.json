@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "872317410999",
+    "firebase_url": "https://ethereal-effort-291018.firebaseio.com",
+    "project_id": "ethereal-effort-291018",
+    "storage_bucket": "ethereal-effort-291018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872317410999:android:498ee14500dcf7bac3b732",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872317410999-b13s69g535m88c6sqq54unsh3aplis3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6JLaXwwUUGsUMBB5KOaVxLkHLNc46_G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872317410999-b13s69g535m88c6sqq54unsh3aplis3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
